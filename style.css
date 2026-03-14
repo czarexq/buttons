@@ -1,0 +1,239 @@
+/* subscribe */
+.subscribe-button {
+    background-color: #d00100;
+    color: white;
+    border: none;
+    height: 37px;
+    width: 110px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: opacity 0.10s;
+}
+
+.subscribe-button:hover {
+    opacity: 0.8;
+}
+
+.subscribe-button:active {
+    opacity: 0.5;
+}
+/* subscribe */
+
+/* join */
+.join-button {
+    background-color: white;
+    color: rgb(41, 118, 211);
+    height: 37px;
+    width: 55px;
+    border: 1px solid rgb(41, 118, 211);
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: background-color 0.20s;
+}
+
+.join-button:hover {
+    background-color: rgb(41, 118, 211);
+    color: white;
+}
+
+.join-button:active {
+    opacity: 0.8;
+}
+/* join */
+
+/* tweet */
+.tweet-button {
+    background-color: rgb(70, 135, 255);
+    color: white;
+    border-radius: 18px;
+    height: 37px;
+    width: 75px;
+    border: none;
+    font-weight: 500;
+    font-size: 15px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: box-shadow 0.15s;
+}
+
+.tweet-button:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+}
+
+.tweet-button:active {
+    opacity: 0.8;
+}
+/* tweet */
+
+/* request */
+.request-now {
+    color: white;
+    background-color: black;
+    height: 37px;
+    width: 115px;
+    border: none;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: background-color 0.25s;
+}
+
+.request-now:hover {
+    opacity: 0.8;
+}
+
+.request-now:active {
+    background-color: gray;
+}
+/* request */
+
+/* cart */
+.add-to-cart {
+    margin-top: 8px;
+    height: 33px;
+    width: 160px;
+    border-radius: 18px;
+    background-color: rgb(255, 216, 20);
+    color: black;
+    border: none;
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: background-color 0.25s;
+}
+
+.add-to-cart:hover {
+    background-color: rgb(224, 193, 34);
+}
+
+.add-to-cart:active {
+    opacity: 0.8;
+}
+/* cart */
+
+/* sign up */
+.sign-up {
+    margin-top: 8px;
+    height: 40px;
+    width: 90px;
+    border-radius: 5px;
+    background-color: rgb(46, 164, 79);
+    color: white;
+    border: none;
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: opacity 0.20s, box-shadow 0.20s;
+}
+
+.sign-up:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+}
+
+.sign-up:active {
+    opacity: 0.8;
+}
+/* sign up */
+
+/* get started */
+.get-started {
+    margin-top: 8px;
+    height: 40px;
+    width: 120px;
+    border-radius: 5px;
+    background-color: rgb(121, 82, 179);
+    color: white;
+    border: none;
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: background-color 0.20s, opacity 0.20s;
+}
+
+.get-started:hover {
+    background-color: rgb(93, 62, 139);
+}
+
+.get-started:active {
+    opacity: 0.8;
+}
+/* get started */
+
+/* download */
+.download {
+    margin-top: 8px;
+    height: 40px;
+    width: 120px;
+    border-radius: 5px;
+    background-color: white;
+    border: 1px solid rgb(108, 117, 125);
+    color: rgb(108, 117, 125);
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: background-color 0.20s, opacity 0.20s;
+}
+
+.download:hover {
+    color: white;
+    background-color: rgb(108, 117, 125);
+}
+
+.download:active {
+    opacity: 0.8;
+}
+/* download */
+
+/* save */
+.save-button {
+    color: rgb(10, 102, 194);
+    background-color: white;
+    margin-top: 8px;
+    margin-right: 8px;
+    width: 65px;
+    height: 34px;
+    border-radius: 18px;
+    border: 1.5px solid rgb(10, 102, 194);
+    font-size: 15px;
+    font-weight: bolder;
+    cursor: pointer;
+    transition: border-width 0.13s, opacity 0.14s;
+}
+
+.save-button:hover {
+    border-width: 2px;
+}
+
+.save-button:active {
+    opacity: 0.7;
+}
+/* save */
+
+/* apply */
+.apply-button {
+    color: white;
+    background-color: rgb(10, 102, 194);
+    margin-top: 8px;
+    margin-right: 8px;
+    width: 200px;
+    height: 34px;
+    border-radius: 18px;
+    border: none;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.13s, opacity 0.14s;
+}
+
+.apply-button:hover {
+    background-color: rgb(12, 85, 158);
+}
+
+.apply-button:active {
+    opacity: 0.85;
+}
+/* apply */
