@@ -1,26 +1,26 @@
 # 🎨 CSS Button Collection
 
-> *A collection of real-world UI buttons — rebuilt from scratch with pure HTML & CSS.*
+> _A collection of real-world UI buttons — rebuilt from scratch with pure HTML & CSS._
 
-One of my first projects while learning CSS — recreating buttons from popular websites like YouTube, Twitter, LinkedIn, Amazon and more — focusing on hover effects, transitions and clean styling.
-Now i just added my second accout here!
+One of my first projects while learning CSS — recreating buttons from popular websites like YouTube, Twitter, LinkedIn, Amazon and more — focusing on hover effects, transitions and clean styling. 🍃
+Now i just added my second accout here! ✨
 
 ---
 
 ## ✨ Buttons included
 
-| Button | Inspired by |
-|--------|-------------|
-| `SUBSCRIBE` | YouTube |
-| `JOIN` | YouTube |
-| `Tweet` | Twitter / X |
-| `Request now` | Various SaaS |
-| `Add to Cart` | Amazon |
-| `Sign up` | GitHub |
-| `Get started` | Various apps |
-| `Download` | Generic / Bootstrap |
-| `Apply on company website` | LinkedIn |
-| `Save` | LinkedIn |
+| Button                     | Inspired by         |
+| -------------------------- | ------------------- |
+| `SUBSCRIBE`                | YouTube             |
+| `JOIN`                     | YouTube             |
+| `Tweet`                    | Twitter / X         |
+| `Request now`              | Various SaaS        |
+| `Add to Cart`              | Amazon              |
+| `Sign up`                  | GitHub              |
+| `Get started`              | Various apps        |
+| `Download`                 | Generic / Bootstrap |
+| `Apply on company website` | LinkedIn            |
+| `Save`                     | LinkedIn            |
 
 ---
 
@@ -42,6 +42,7 @@ Now i just added my second accout here!
 ---
 
 ## 📁 Project structure
+
 ```
 project/
 ├── index.html
@@ -58,4 +59,4 @@ project/
 
 ---
 
-*Made with 💙 while learning CSS*
+_Made with 💙 while learning CSS_
